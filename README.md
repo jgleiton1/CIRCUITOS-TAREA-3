@@ -74,7 +74,6 @@ Capítulo 6
 
 **3. Explicacion y resolucion de ejercicios o problemas**
 
-***
 
 
 
@@ -95,6 +94,8 @@ Capítulo 6
 **6. Bibliografía**
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+***
 
 7. Rubrica
 
