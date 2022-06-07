@@ -609,7 +609,7 @@ No se distinguen el código de colores no hay como resolver
 
 **4. Vídeo**
 
-
+https://www.youtube.com/watch?v=zbl1s-JyucE
 
 ***
 
